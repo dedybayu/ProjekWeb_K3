@@ -3,8 +3,9 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  cursor: url('custom-cursor.png'), auto;
+  cursor: url("Suntik-cursor.png"), auto;
 }
+
 
 .container {
   max-width: 1200px;
@@ -57,6 +58,7 @@ body {
 
 .isihome {
   padding: 20px;
+  background-color: rgb(205, 225, 255);
 }
 
 footer {
